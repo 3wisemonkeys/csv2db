@@ -1,0 +1,1 @@
+./csv2db -inputfile /home/rc2/Dropbox/Crimson/Essendant/ESS_ALL_20180510013831_967206/ESS_ALL_20180510013831_967206.txt -dbhost localhost -dbuser rc2 -dbpass joatmos -dbport 5432 -dbschema ESS -dbname May_2018
